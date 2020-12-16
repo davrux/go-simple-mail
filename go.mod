@@ -1,3 +1,3 @@
-module github.com/davrux/go-simple-mail/v2
+module github.com/davrux/go-simple-mail
 
 go 1.13
